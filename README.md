@@ -1,4 +1,4 @@
-<h1> Xin chào, mình là 🍁JRT🍂 <img src="https://user-images.githubusercontent.com/88273015/133915703-61533620-a9b9-48ea-b6cd-d42d1e6e7e76.gif" width="25"></h1> 
+<h1> Xin chào, mình là 🍁NMT🍂 <img src="https://user-images.githubusercontent.com/88273015/133915703-61533620-a9b9-48ea-b6cd-d42d1e6e7e76.gif" width="25"></h1> 
 
 <p align="center">
     <img align="center" alt="PNG" src="https://user-images.githubusercontent.com/88273015/133915703-61533620-a9b9-48ea-b6cd-d42d1e6e7e76.gif" />
@@ -95,11 +95,9 @@ const app = require ("express") ();  app.get ('/', (req, res) => {res.send ("RUN
 # 🤝🏻 Connect with Me
 <p align="center">
   
-&nbsp; <a href="https://www.instagram.com/hd.jrt.2k3" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="100" /></a> 
-&nbsp; <a href="https://www.tiktok.com/@hd.jrt03?" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/search" width="100" /></a>    
-&nbsp; <a href="https://github.com/J-JRT" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/github.png" width="100" /></a>
-&nbsp; <a href="https://www.facebook.com/NHD.JRT.262" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/facebook.png"  width="100" /></a>
-&nbsp; <a href="mailto:lehonguyen2k3@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="100" /></a>
+>
+&nbsp; <a href="https://www.facebook.com/alotritne" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/facebook.png"  width="100" /></a>
+&nbsp; <a href="mailto:alotritne@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="100" /></a>
 </p>
 
 
